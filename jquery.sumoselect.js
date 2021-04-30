@@ -3,7 +3,7 @@
  * http://hemantnegi.github.io/jquery.sumoselect
  * 2016-12-12
  *
- * Copyright 2015 Hemant Negi
+ * Copyright 2015 Julien Buabent
  * Email : hemant.frnz@gmail.com
  * Compressor http://refresh-sf.com/
  */
